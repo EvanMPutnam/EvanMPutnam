@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://github.com/EvanMPutnam/EvanMPutnam/blob/main/about_me2.GIF)
+<img src="https://github.com/EvanMPutnam/EvanMPutnam/blob/main/about_me2.GIF" width="960"/>
