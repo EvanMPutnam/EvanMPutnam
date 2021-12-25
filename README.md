@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🚀 Hello there 🚀
 
 <!--
 **EvanMPutnam/EvanMPutnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Alt Text](https://github.com/EvanMPutnam/EvanMPutnam/blob/main/about_me2.GIF)
