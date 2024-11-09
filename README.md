@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ## Socials
-<a href="https://www.linkedin.com/in/evan-p-712249b2/">
+<a href="https://www.linkedin.com/in/evan-putnam-712249b2">
   <img src="https://img.shields.io/badge/linkedin-evan--putnam-blue">
 </a>
 
