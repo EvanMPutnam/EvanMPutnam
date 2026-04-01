@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/EvanMPutnam/EvanMPutnam/blob/main/about_me2.GIF" width="960"/>
 -->
 - 👨‍💻 I work full time as an SDE at Amazon Web Services.
-- 🏫 I graduated with my Bachelors in Computer Science from Rochester Institiute of Technology.
+- 🏫 I graduated with my Bachelors in Computer Science from Rochester Institute of Technology.
 - 🎒 I'm currently studying for my Masters in Space Systems Engineering from Johns Hopkins.
 
 ## Languages and Tools
