@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/EvanMPutnam/EvanMPutnam/blob/main/about_me2.GIF" width="960"/>
 -->
-- 👨‍💻 I work full time as an SDE at Amazon Web Services.
-- 🏫 I graduated with my Bachelors in Computer Science from Rochester Institute of Technology.
-- 🎒 I'm currently studying for my Masters in Space Systems Engineering from Johns Hopkins.
+- 👨‍💻 Software Development Engineer at Amazon Web Services.
+- 🎓 B.S. in Computer Science from Rochester Institute of Technology
+- 🎓 M.S. in Space Systems Engineering from Johns Hopkins University.
+- 🛰️ Focused on the intersection of software, cloud infrastructure, and space systems.
 
 ## Languages and Tools
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
